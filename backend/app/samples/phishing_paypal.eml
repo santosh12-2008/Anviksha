@@ -1,0 +1,24 @@
+Received: from mail-in1.defense.enterprise.net (10.0.1.5) by mx.defense.enterprise.net with SMTP id a12b34; Fri, 04 Sep 2026 10:14:22 +0000
+Received: from relay02.anonymizing-node.org (194.26.29.112) by mail-in1.defense.enterprise.net with ESMTP id 987xyz; Fri, 04 Sep 2026 10:14:15 +0000
+Received: from localhost (185.220.101.5) by relay02.anonymizing-node.org with HTTP; Fri, 04 Sep 2026 10:13:58 +0000
+From: "PayPal Security Verification" <service-security@paypal-verify-alert.xyz>
+To: target-victim@enterprise.com
+Reply-To: security-recovery@suspicious-auth-hub.top
+Subject: URGENT ACTION REQUIRED: Account Suspended Due to Unauthorized Access Attempt
+Date: Fri, 04 Sep 2026 10:13:58 +0000
+Message-ID: <9918274619.20260904@suspicious-mailer.ru>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Dear Valued PayPal Customer,</h2>
+<p>We detected unauthorized login attempts to your PayPal account from an unrecognized IP address in Moscow, Russia.</p>
+<p style="color:red; font-weight:bold;">IMMEDIATE ACTION REQUIRED: Your account has been temporarily restricted.</p>
+<p>To avoid permanent termination within 24 hours, you must confirm your password and validate your identity immediately:</p>
+<p><a href="http://login-paypal.com.verify-checkpoint.xyz/account-restore">Click here to sign in and verify your identity now</a></p>
+<p>Failure to respond immediately will result in forfeiture of funds.</p>
+<p>Sincerely,<br>PayPal Fraud Prevention Department</p>
+</body>
+</html>

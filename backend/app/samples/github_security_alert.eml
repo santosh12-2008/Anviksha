@@ -1,0 +1,22 @@
+Received: from smtp.github.com (smtp.github.com [209.85.220.41])
+	by mx.enterprise.com (Postfix) with ESMTPS id 9RtP3381aAa902
+	for <developer@enterprise.com>; Fri, 04 Sep 2026 08:30:12 +0000
+From: "GitHub Support" <support@github.com>
+To: <developer@enterprise.com>
+Subject: [GitHub] A personal access token (classic) was recently created for your account
+Date: Fri, 04 Sep 2026 08:29:45 +0000
+Message-ID: <github.token.notify.20260904@github.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+X-Authentication-Results: spf=pass (sender IP 209.85.220.41); dkim=pass (signature ok); dmarc=pass
+
+Hey developer,
+
+A personal access token with 'repo' scope was generated on your account from IP 192.0.2.1 (Chrome on macOS).
+If you recently created this token via the GitHub web portal, no further action is required.
+
+If you did not perform this action, please visit your security settings to revoke the token immediately:
+https://github.com/settings/tokens
+
+Thanks,
+The GitHub Team

@@ -1,0 +1,21 @@
+Received: from mail-pj1-f41.google.com (209.85.220.41) by mx.google.com with SMTPS id 12345; Fri, 04 Sep 2026 08:00:00 +0000
+From: "Google Workspace Security" <no-reply@accounts.google.com>
+To: admin@enterprise.com
+Subject: Monthly Security Digest & Policy Health
+Date: Fri, 04 Sep 2026 08:00:00 +0000
+Message-ID: <digest-sept2026@google.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=20230601;
+Authentication-Results: mx.google.com; dkim=pass header.i=@google.com; spf=pass (google.com: domain of no-reply@accounts.google.com designates 209.85.220.41 as permitted sender); dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Hello Administrator,
+
+Here is your monthly security posture overview for Google Workspace.
+No abnormal login spikes or protocol violations were detected during the past 30 days.
+
+Review your audit logs at your convenience:
+https://workspace.google.com/dashboard
+
+Best regards,
+Google Workspace Team

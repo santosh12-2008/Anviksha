@@ -1,0 +1,38 @@
+Received: from vps-relay.cloudhost.biz (vps-relay.cloudhost.biz [185.220.101.5])
+	by mx.enterprise.com (Postfix) with ESMTPS id 3NxW8842yYy101
+	for <employee@enterprise.com>; Fri, 04 Sep 2026 11:25:10 +0000
+From: "Microsoft IT Security Desk" <admin-portal@microsoft-auth-verify.xyz>
+To: <employee@enterprise.com>
+Subject: Critical Update: Re-authenticate Microsoft 365 MFA Token (Scan QR Code)
+Date: Fri, 04 Sep 2026 11:24:55 +0000
+Message-ID: <20260904112455.M365.981@microsoft-auth-verify.xyz>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_M365_QR_1"
+X-Authentication-Results: spf=fail; dkim=none; dmarc=fail
+
+------=_NextPart_M365_QR_1
+Content-Type: text/plain; charset="utf-8"
+
+ATTENTION: Organization Security Policy Enforcement
+
+Your Microsoft Authenticator session token has expired due to our scheduled infrastructure upgrade.
+You must re-authenticate your mobile device within 24 hours to prevent your corporate email and OneDrive access from being suspended.
+
+HOW TO RE-AUTHENTICATE:
+1. Open the camera app on your mobile smartphone.
+2. Scan the attached 2FA Authentication QR code.
+3. Sign in to verify your identity and approve the authentication request.
+
+Do not share this QR code with anyone.
+
+Global Identity Security Operations
+Enterprise IT Services
+
+------=_NextPart_M365_QR_1
+Content-Type: image/png; name="M365_2FA_Auth_QRCode.png"
+Content-Disposition: attachment; filename="M365_2FA_Auth_QRCode.png"
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9
+awAAAABJRU5ErkJggg==
+------=_NextPart_M365_QR_1--
